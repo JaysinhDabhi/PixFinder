@@ -10,7 +10,7 @@
     Online Image Search Engine
     <br/>
     <br/>
-    <a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi/">View Demo</a>
+    <a href="https://pix-finder.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi//issues">Report Bug</a>
     .
@@ -45,7 +45,7 @@
 
 ## Demo
 
-<a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi/">View Demo</a>
+<a href="https://pix-finder.vercel.app/">View Demo</a>
 
 
 
